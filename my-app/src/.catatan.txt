@@ -1,0 +1,3 @@
+1. index.js adalah file yang awal di eksekusi oleh web
+2. hanya menyisakan app.cs, app.js, index.css, dan index.js
+3. membuat folder baru untuk coding sendiri sebagai tempat test sebelum di launcing
