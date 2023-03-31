@@ -1,3 +1,6 @@
 1. index.js adalah file yang awal di eksekusi oleh web
 2. hanya menyisakan app.cs, app.js, index.css, dan index.js
 3. membuat folder baru untuk coding sendiri sebagai tempat test sebelum di launcing
+4. untuk membuat fungsi tambahan di sarankan menggunakan variabel yang di rubah mencadi fungsi void
+5. penggunaan proms / self bisa saling sharing variabel, fungsi dan tag html
+namun jika mengirim tag html harus berupa function 
