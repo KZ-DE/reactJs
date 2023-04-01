@@ -4,3 +4,5 @@
 4. untuk membuat fungsi tambahan di sarankan menggunakan variabel yang di rubah mencadi fungsi void
 5. penggunaan proms / self bisa saling sharing variabel, fungsi dan tag html
 namun jika mengirim tag html harus berupa function 
+6. untuk multipgae menggunakan react routing dom
+7. kalo mau copas codingan react jangan sama node modulenya namun sebelum <npm start> harus lakuin <npm i> untuk mengisntal node module

@@ -1,5 +1,7 @@
 import "./index.css";
-const Nav = (self) => {
+
+const Nav = ({ navbar, geterpage }) => {
+  // unutk mamnggilnya bisa hanya menggunakan nama propertinya saja tampa melakukan self.<nama prop
   return (
     <div>
       <h1>Navigation Bar</h1>
@@ -15,14 +17,14 @@ const Nav = (self) => {
             <a href=" ">Abaut</a>
           </li>
           <li>
-            <a href=" ">Page</a>
+            <a href=" ">{geterpage}</a>
           </li>
           <li>
-            <a href=" ">{self.test}</a>
+            <a href=" ">{navbar}</a>
           </li>
-          <li>
+          {/* <li>
             <a href=" ">{self.navedn}</a>
-          </li>
+          </li> */}
         </ul>
       </h1>
     </div>
